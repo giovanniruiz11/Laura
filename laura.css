@@ -38,28 +38,28 @@
   box-shadow: 10px 10px 5px #474546;
 }
 
-.blue {
+.dark_green {
 	  background-color: #015C00;
 	  min-height:150px;
 }
 
-.white {
+.green {
   background-color: #02910D;
 }
 
-.orange {
+.light_blue {
   background-color: #BBE7FF;
 }
 
-.purp {
+.lighter_blue {
   background-color: #DBE7FF;
 }
 
-.red {
+.whitest_blue {
   background-color: #D1E8D3;
 }
 
-.green {
+.idk {
   background-color: #F351FF;
 }
 
