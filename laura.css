@@ -1,3 +1,4 @@
+
 .box1 {
   min-height: 40vh;
   width: 28%;
@@ -39,12 +40,13 @@
 }
 
 .dark_green {
-  background-color: #015C00;
-   min-height:253px;
+	 background-color: #015C00;
+	  min-height:253px;
 }
 
 .green {
-background-color: #02910D;
+  background-color: #02910D;
+   min-height:253px;
 }
 
 .light_blue {
@@ -58,4 +60,5 @@ background-color: #02910D;
 .whitest_blue {
   background-color: #D1E8D3;
 }
+
 
