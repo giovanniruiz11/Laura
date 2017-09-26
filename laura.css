@@ -109,6 +109,7 @@ width: 400px;
   width: 15%;
   margin: auto;
   display: inline-table;
+  -webkit-border-radius: 50px;
   box-shadow: 5px 5px 8px #474546;
   background-color: #DBE7FF;
 }
