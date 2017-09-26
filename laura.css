@@ -62,43 +62,43 @@ body{
 }
 .circle1 {
   width: 400px;
-	height: 400px;
-	-moz-border-radius: 200px;
-	-webkit-border-radius: 200px;
-	border-radius: 200px;
+  height: 400px;
+  -moz-border-radius: 200px;
+  -webkit-border-radius: 200px;
+  border-radius: 200px;
   margin: auto;
   display: inline-table;
   background-color: #BBE7FF;
   opacity: 0.8;
 }
 .circle2 {
-width: 400px;
-	height: 400px;
-	-moz-border-radius: 200px;
-	-webkit-border-radius: 200px;
-	border-radius: 200px;
+  width: 400px;
+  height: 400px;
+  -moz-border-radius: 200px;
+  -webkit-border-radius: 200px;
+  border-radius: 200px;
   margin: auto;
   display: inline-table;
   background-color: #DBE7FF;
   opacity: 0.8;
 }
 .circle3 {
-width: 400px;
-	height: 400px;
-	-moz-border-radius: 200px;
-	-webkit-border-radius: 200px;
-	border-radius: 200px;
+  width: 400px;
+  height: 400px;
+  -moz-border-radius: 200px;
+  -webkit-border-radius: 200px;
+  border-radius: 200px;
   margin: auto;
   display: inline-table;
   background-color: #02910D;
   opacity: 0.8;
 }
 .circle4 {
- width: 400px;
-	height: 400px;
-	-moz-border-radius: 200px;
-	-webkit-border-radius: 200px;
-	border-radius: 200px;
+  width: 400px;
+  height: 400px;
+  -moz-border-radius: 200px;
+  -webkit-border-radius: 200px;
+  border-radius: 200px;
   margin: auto;
   display: inline-table;
   background-color: #015C00;
@@ -129,12 +129,12 @@ width: 400px;
   background-color: #AARRGGBB;
 }
 h2 {
-	margin-top: 80px;
-	font-family: "Comic Sans MS", cursive, sans-serif;
-	text: center;
-	text-decoration: underline;
-	vertical-align: middle;
-	position: relative;
+  margin-top: 80px;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  text: center;
+  text-decoration: underline;
+  vertical-align: middle;
+  position: relative;
 }
 .Aligner {
   display: flex;
@@ -142,8 +142,8 @@ h2 {
   justify-content: center;
 }
 .font1 {
-	font-family: "Lucida Console", Monaco, monospace
+  font-family: "Lucida Console", Monaco, monospace
 }
 .font2 {
-	font-family: "lora",
+  font-family: "lora",
 }
