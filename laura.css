@@ -1,3 +1,4 @@
+
 body{
 	background-image: url("http://www.hdwallpaper.nu/wp-content/uploads/2015/09/Tropical_Beach_wallpaper_001.jpg");
 }
@@ -9,6 +10,11 @@ body{
 }
 .top {
 	padding-bottom:100px;
+	display: flex;
+}
+.bottom {
+	padding-bottom:100px;
+	display: flex;
 }
 .box1:hover {
 	box-shadow: 0px 0px 150px #000000;
@@ -108,18 +114,19 @@ body{
 	height: 15%;
 	width: 15%;
 	margin: auto;
-	display: inline-table;
+	display: center;
+	text-align: center;
 	-webkit-border-radius: 200px;
 	box-shadow: 5px 5px 8px #474546;
 	background-color: #DBE7FF;
 }
 .box2 {
-	width: 50%;
+	width: calc(100% - 800px);
 	display: inline-table;
 	background-color: #AARRGGBB;
 }
 .box3 {
-	width: 50%;
+	width: calc(100% - 800px);
 	display: inline-table;
 	background-color: #AARRGGBB;
 }
@@ -142,3 +149,4 @@ h2 {
 .font2 {
 	font-family: "lora",
 }
+
