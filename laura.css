@@ -131,20 +131,17 @@ body{
 	background-color: #AARRGGBB;
 }
 h2 {
-	margin-top: 80px;
+	margin-top: 34%;
 	font-family: "Comic Sans MS", cursive, sans-serif;
-	text: center;
-	text-decoration: underline;
-	vertical-align: middle;
+	text-align: center;
+	vertical-align: center;
+	font-size: 100%;
 	position: relative;
 }
 .Aligner {
 	display: flex;
 	align-items: center;
 	justify-content: center;
-}
-.font1 {
-	font-family: "Lucida Console", Monaco, monospace
 }
 .font2 {
 	font-family: "lora",
