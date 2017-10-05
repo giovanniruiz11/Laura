@@ -1,6 +1,7 @@
 
 body{
 	background-image: url("http://www.hdwallpaper.nu/wp-content/uploads/2015/09/Tropical_Beach_wallpaper_001.jpg");
+	font-family: 'Quicksand', sans-serif;
 }
 .container {
 	padding-left:100px; 
@@ -76,6 +77,7 @@ body{
 	display: inline-table;
 	background-color: #BBE7FF;
 	opacity: 0.8;
+	font-family: serif;
 }
 .circle2 {
 	width: 400px;
@@ -144,6 +146,6 @@ h2 {
 	justify-content: center;
 }
 .font2 {
-	font-family: "lora",
+	font-family: 'Quicksand', sans-serif;
 }
 
